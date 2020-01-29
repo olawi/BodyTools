@@ -1,0 +1,1 @@
+Python tools for converting and editing Fallout 4 BodySlide and Looksmenu/Bodygen files.
